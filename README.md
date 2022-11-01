@@ -3,12 +3,12 @@
 ### Question 1)
 Describe the idea behind your project?
 
-* My project is idea is to create an E-Commerce store that sells wine.  I have had a passion for wine for the last 5 years.  I have purchased wine online.  I really enjoy the layout of such sites like [vivino.com](https://www.vivino.com/US-TX/en/?utm_source=google&utm_medium=paid_search&utm_campaign=PM_02_66&gclid=CjwKCAjw7eSZBhB8EiwA60kCW3mySm1jwNaNNJLX0BuL0g6hchDtsdGxES3RCfafzMcoh8nLnJBCShoCA7QQAvD_BwE), [tannico.com](https://www.tannico.com/), and [wine.com](https://www.wine.com/).  I would like to create my own smaller version.
+* My project is idea is to create an E-Commerce store that sells wine.  I have had a passion for wine for the last 5 years.  I have purchased wine online and have had positive experiences for the most part.  I really enjoy the layout of such sites like [vivino.com](https://www.vivino.com/US-TX/en/?utm_source=google&utm_medium=paid_search&utm_campaign=PM_02_66&gclid=CjwKCAjw7eSZBhB8EiwA60kCW3mySm1jwNaNNJLX0BuL0g6hchDtsdGxES3RCfafzMcoh8nLnJBCShoCA7QQAvD_BwE), [tannico.com](https://www.tannico.com/), and [wine.com](https://www.wine.com/).  I would like to create my own smaller version.
 
 ### Question 2)
 Who is my target audience?
 
-* My target audience is anyone that enjoys drinking wine.
+* My target audience is anyone that enjoys drinking wine, more than likely an older demographic, culutured, doctors, lawyers, entrepreneurs, enthusiasts, old world types.
 
 ### Question 3)
 How is this project going to showcase development skills?
@@ -27,7 +27,7 @@ How is this project going to showcase development skills?
 
 * Week 3 - Build the Backend, so the data can be rendered from the Backend.  Login, Wine Data.  Also sends Wine Cart information to backend.
 
-* Week 4 - Stretch Goals - Implement Twillo API or Paypal sandbox API.
+* Week 4 - Stretch Goals - Implement Twillo API or Paypal sandbox API.  Add more wines to portfolio and use pagination.  Filter wine by country.
 
 ### Question 6)
 What does your data schema look like at a high level? (How do you plan to
